@@ -8,7 +8,7 @@ export default function Navbar() {
 
         <button
           type="button"
-          className="rounded-full border border-white/15 px-5 py-2 text-sm font-medium text-white/90 transition-colors hover:border-accent-cyan/60 hover:text-accent-cyan"
+          className="rounded-full bg-gradient-to-r from-red-600 to-rose-500 px-5 py-2 text-sm font-medium text-white shadow-lg shadow-red-600/30 transition-all hover:from-red-500 hover:to-rose-400 hover:shadow-red-500/40"
         >
           Entrar
         </button>

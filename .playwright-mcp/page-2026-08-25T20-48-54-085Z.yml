@@ -1,0 +1,12 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: MBA IA - FullCycle
+      - button "Entrar" [ref=e5]
+  - main [ref=e6]:
+    - generic [ref=e7]:
+      - paragraph [ref=e8]: Demo Claude MD
+      - heading "Hello from Claude Code" [level=1] [ref=e9]
+  - contentinfo [ref=e10]:
+    - paragraph [ref=e11]: MBA IA - FullCycle
+  - button "Open Next.js Dev Tools" [ref=e17] [cursor=pointer]
