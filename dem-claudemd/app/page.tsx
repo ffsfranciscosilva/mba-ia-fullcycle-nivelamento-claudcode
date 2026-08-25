@@ -22,7 +22,7 @@ export default function Home() {
         {appName}
       </p>
       <h1 className="relative text-4xl font-semibold text-white sm:text-6xl">
-        Hello from Claude code
+        Hello from Claude Code
       </h1>
     </div>
   );
