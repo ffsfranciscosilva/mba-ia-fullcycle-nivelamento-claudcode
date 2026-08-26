@@ -1,3 +1,5 @@
+import Button from "@/src/components/Button";
+
 const appName = process.env.NEXT_PUBLIC_APP_NAME;
 
 if (!appName) {

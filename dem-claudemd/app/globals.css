@@ -5,6 +5,102 @@
   --foreground: #ededed;
   --accent-violet: #7c3aed;
   --accent-cyan: #22d3ee;
+
+  /* Design system tokens — ver DESIGN.md */
+
+  /* Cores */
+  --color-primary-100: #e6f0ff;
+  --color-primary-200: #b3d1ff;
+  --color-primary-300: #80b3ff;
+  --color-primary-400: #4d94ff;
+  --color-primary-500: #1a75ff;
+  --color-primary-600: #005ce6;
+  --color-primary-700: #0047b3;
+  --color-primary-800: #003380;
+  --color-primary-900: #001f4d;
+
+  --color-neutral-100: #f7f7f8;
+  --color-neutral-200: #ececee;
+  --color-neutral-300: #d6d6da;
+  --color-neutral-400: #b0b0b8;
+  --color-neutral-500: #86868f;
+  --color-neutral-600: #5c5c66;
+  --color-neutral-700: #3d3d45;
+  --color-neutral-800: #232329;
+  --color-neutral-900: #0f0f12;
+
+  --color-danger-100: #fdecec;
+  --color-danger-200: #f9c6c6;
+  --color-danger-300: #f29e9e;
+  --color-danger-400: #e96d6d;
+  --color-danger-500: #dc3535;
+  --color-danger-600: #b91f1f;
+  --color-danger-700: #931818;
+  --color-danger-800: #6e1212;
+  --color-danger-900: #470b0b;
+
+  --color-success-100: #e8f9ee;
+  --color-success-200: #bfefd0;
+  --color-success-300: #93e4b0;
+  --color-success-400: #5fd68b;
+  --color-success-500: #2ec367;
+  --color-success-600: #1f9e50;
+  --color-success-700: #197d40;
+  --color-success-800: #135c2f;
+  --color-success-900: #0b3a1e;
+
+  --color-bg: var(--color-neutral-100);
+  --color-surface: #ffffff;
+  --color-border: var(--color-neutral-300);
+  --color-text: var(--color-neutral-900);
+  --color-text-muted: var(--color-neutral-600);
+
+  --color-primary: var(--color-primary-500);
+  --color-primary-hover: var(--color-primary-600);
+  --color-primary-active: var(--color-primary-700);
+  --color-primary-text-on: #ffffff;
+
+  --color-danger: var(--color-danger-500);
+  --color-danger-hover: var(--color-danger-600);
+  --color-danger-active: var(--color-danger-700);
+  --color-danger-text-on: #ffffff;
+
+  --color-success: var(--color-success-500);
+  --color-success-hover: var(--color-success-600);
+  --color-success-active: var(--color-success-700);
+  --color-success-text-on: #ffffff;
+
+  /* Espaçamento */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  /* Tipografia */
+  --font-family-base: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 24px;
+
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.2;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+
+  /* Raio de borda */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --radius-full: 9999px;
 }
 
 @theme inline {

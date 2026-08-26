@@ -136,7 +136,7 @@ Escala linear em incrementos de 4px, usada para padding, margin e gap.
 
 ## Checklist de construção
 
-- [ ] Button - variantes primary/secondary, usa apenas tokens
-- [ ] Input - com label e estado de erro, usa apenas tokens
-- [ ] Card - com header e slot de conteúdo, usa apenas tokens
-- [ ] Badge - variantes por cor semântica, usa apenas tokens
+- [x] Button - variantes primary/secondary, usa apenas tokens
+- [x] Input - com label e estado de erro, usa apenas tokens
+- [x] Card - com header e slot de conteúdo, usa apenas tokens
+- [x] Badge - variantes por cor semântica, usa apenas tokens
